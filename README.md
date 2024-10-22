@@ -1,6 +1,7 @@
 # Voxel Project
 
 ## Table of Contents
+
 - [Project Description](#project-description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -9,17 +10,19 @@
 - [License](#license)
 
 ## Project Description
+
 The Voxel project is a XYZ (provide a brief description about what your project does).
 
 ## Installation
+
 To install the project, clone this repository and follow the steps:
 
-
-
 ## Usage
+
 Instructions on how to use the project or any specific command for usage.
 
 ## Directory Structure
+
 - : Contains git metadata and history.
 - : Visual Studio Code specific settings.
 - : Automations for building, testing, etc.
@@ -31,9 +34,9 @@ Instructions on how to use the project or any specific command for usage.
 - : Source code for the project.
 
 ## Contributing
+
 Guidelines for contributing to the project.
 
 ## License
+
 Provide licensing information here.
-
-
