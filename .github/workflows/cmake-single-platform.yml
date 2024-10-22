@@ -26,7 +26,7 @@ jobs:
       run: |
         git clone https://github.com/glfw/glfw.git
         cd glfw
-        cmake -B build -DGLFW_USE_WAYLAND=OFF
+        cmake -B build -DGLFW_BUILD_WAYLAND=OFF -DGLFW_BUILD_X11=ON
         cmake --build build
         sudo cmake --install build
 
